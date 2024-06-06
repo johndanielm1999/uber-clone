@@ -1,4 +1,4 @@
-# How to Built an Uber Clone Taxi Booking App Within 14 Days 
+# How to Built an Uber Clone Taxi Booking App
 I'd be glad to craft an article outlining the key steps involved in developing an **[Uber Clone](https://appkodes.com/uber-clone/)**, incorporating best practices and highlighting Appkodes as a potential development partner:
 ## Building a Ride-Sharing App: A Comprehensive Guide
 In today's fast-paced world, on-demand services reign supreme. Ride-sharing apps like Uber have revolutionized transportation, offering convenience and flexibility for both riders and drivers. If you envision creating a similar app, this guide will equip you with the essential knowledge to navigate the development process.
